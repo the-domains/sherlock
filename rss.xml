@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Visual Collection ]]></title>
+        <description><![CDATA[A Visual Collection ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 Nov 2015 00:56:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Hanse 575 ]]></title>
+            <description><![CDATA[<article><h1>The Hanse 575 </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18bb8740-5470-43a1-a182-5d299f80f618.jpg"></article>]]></description>
+            <link>undefinedthe-hanse-575/index.html</link>
+            <guid isPermaLink="false">0e377353-35a9-4fbb-9865-961648cf7e89</guid>
+            <pubDate>Wed, 18 Nov 2015 00:55:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
