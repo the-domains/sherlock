@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[A Visual Collection ]]></title>
         <description><![CDATA[A Visual Collection ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sherlock/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 00:56:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 00:58:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sherlock/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3100dc0-43db-4eaf-b538-1773836860a9.jpg">]]></description>
+            <link>https://thegrid.ai/sherlock/f3403613-fc23-4c28-9238-91a16c3939d5/index.html</link>
+            <guid isPermaLink="false">f3403613-fc23-4c28-9238-91a16c3939d5</guid>
+            <pubDate>Wed, 18 Nov 2015 00:58:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Hanse 575 ]]></title>
             <description><![CDATA[<article><h1>The Hanse 575 </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18bb8740-5470-43a1-a182-5d299f80f618.jpg"></article>]]></description>
-            <link>undefinedthe-hanse-575/index.html</link>
+            <link>https://thegrid.ai/sherlock/the-hanse-575/index.html</link>
             <guid isPermaLink="false">0e377353-35a9-4fbb-9865-961648cf7e89</guid>
             <pubDate>Wed, 18 Nov 2015 00:55:56 GMT</pubDate>
         </item>
